@@ -1,0 +1,20 @@
+.body {
+    background-color: #000;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.logo {
+    color: #fff;
+}
+
+.about__info {
+    color: #fff;
+}
+
+.contacts__item {
+    color: #fff;
+}
