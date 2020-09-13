@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://batvale1.github.io/rsschool-cv/cv
